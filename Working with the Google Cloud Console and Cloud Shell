@@ -1,0 +1,8 @@
+Create a bucket using cloud shell - gsutil mb gs://<BUCKET_NAME>
+Copy a file from local / cloud shell to bucket - gsutil cp <FILE_NAME> gs://<BUCKET_NAME>
+To list the available regions - gcloud compute regions list
+To list the project and config details - gcloud config list
+To change the project context - gcloud config set <PROJECT_ID>
+=============================================================================================
+**********************Virtual Networks in Google Cloud**************************
+=============================================================================================
